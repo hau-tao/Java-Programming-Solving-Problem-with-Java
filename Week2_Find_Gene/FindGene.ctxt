@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=dna
+comment0.target=void\ printAllStarts(java.lang.String)
+comment1.params=dna\ index
+comment1.target=int\ findStopIndex(java.lang.String,\ int)
+comment2.params=
+comment2.target=void\ testFinder()
+numComments=3
